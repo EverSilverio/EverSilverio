@@ -13,3 +13,5 @@ Formado em publicidade e propaganda.
 Experiência comprovada em programação e desenvolvimento de sistemas. 
 
 Progress 4GL OpenEdge, SQL, HTML, JavaScript, CSS, jQuery, Bootstrap, AngularJS, VueJS, PHP, Laravel, Figma, Postman, REST, API, JSON, XML, VBA, Excel, Maker Softwell, Action Script, CorelDraw, Photoshop, Scrum, Metodologia Ágil.
+
+![Progress 4GL](https://img.shields.io/badge/PROGRESS-4GL-green)
