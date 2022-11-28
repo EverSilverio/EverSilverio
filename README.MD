@@ -1,6 +1,9 @@
 
 > Profissional de TI com experiência comprovada em desenvolvimento e análise de sistemas, atendimento/suporte à usuários, gestão de projetos, gerenciamento e liderança de equipes.
 
+## MEU GITHUB
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EverSilverio&layout=compact)](https://github.com/EverSilverio/github-readme-stats)
+
 ## FORMAÇÃO
  - Graduando em Análise e Desenvolvimento de Sistemas;
  - [Cursando Certified Tech Developer](https://www.digitalhouse.com/br/blog/especialista-em-desenvolvimento-de-software/) - Digital House (carga horária > 2500h)
@@ -13,9 +16,7 @@ Facilidade e preferência no trabalho em equipe e colaboração.
 Capacidade de gerenciar várias responsabilidades e habilidade na resolução de problemas.
 
 ## HARDSKILLS
-Experiência na elaboração de planilhas e relatórios gerenciais, BI e indicadores de análise e sistemas de apoio a decisão. Conhecimentos em telecom, redes de transmissão, cabeamento, configuração de roteadores. Ex-proprietário de distribuidora de bebidas em Curitiba, com experiência na administração, compras e gerenciamento financeiro.
-
-Experiência comprovada em programação e desenvolvimento de sistemas. 
+Experiência comprovada em programação, análise e desenvolvimento de sistemas. Experiência na elaboração de análises gerenciais, DRE, BI e indicadores de sistemas de apoio a decisão. Conhecimentos em telecom, redes de transmissão, cabeamento, configuração de roteadores. 
 
 ## Algumas ferramentas que já atuei profissionalmente:
 
@@ -50,6 +51,3 @@ Tenho estudado **REACT** e me traz muita satisfação trabalhar com essa ferrame
 
 Das ferramentas backend não me adaptei muito com JAVA, mas continuo estudando. 
 Em paralelo tenho estudado **Node.js + Express**.
-
-## MEU GITHUB
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EverSilverio&layout=compact)](https://github.com/EverSilverio/github-readme-stats)
