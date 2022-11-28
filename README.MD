@@ -2,7 +2,7 @@
 > Profissional de TI com experiência comprovada em desenvolvimento e análise de sistemas, atendimento/suporte à usuários, gestão de projetos, gerenciamento e liderança de equipes.
 
 ## MEU GITHUB
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EverSilverio&layout=compact)](https://github.com/EverSilverio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EverSilverio&layout=compact&theme=dark)](https://github.com/EverSilverio/github-readme-stats)
 
 ## FORMAÇÃO
  - Graduando em Análise e Desenvolvimento de Sistemas;
